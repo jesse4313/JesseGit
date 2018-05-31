@@ -4,3 +4,4 @@ hello world!
 hello git!
 
 Git is free software
+Git是一个免费的软件

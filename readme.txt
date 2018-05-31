@@ -3,3 +3,4 @@
 hello world!
 hello git!
 
+Git is free software
